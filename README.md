@@ -1,6 +1,6 @@
 # GlideUtils
 Glide 3.7 简易封装
-
+[![](https://jitpack.io/v/FynnJason/GlideUtils.svg)](https://jitpack.io/#FynnJason/GlideUtils)
 How to
 To get a Git project into your build:
 
